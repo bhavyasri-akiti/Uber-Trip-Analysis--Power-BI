@@ -29,7 +29,15 @@ This project presents an interactive Power BI dashboard created to analyze Uber 
 
 ## 🖼️ Dashboard Screenshots
 
-------
+### 1. Dashboard Overview
+![Dashboard Overview](01_Dashboard_Overview.png)
+
+### 2. Time Analysis
+![Time Analysis](02_Time_Analysis.png)
+
+### 3. Dashboard Details
+![Dashboard Details](03_Dashboard_Details.png)
+
 ## 📂 Repository Structure
 
 - README.md – Project documentation
