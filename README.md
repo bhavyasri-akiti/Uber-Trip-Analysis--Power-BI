@@ -30,11 +30,12 @@ This project presents an interactive Power BI dashboard created to analyze Uber 
 
 ## 🖼️ Dashboard Screenshots
 
-<img src="Screenshots/01 _Dashboard_Overview.png" alt="Dashboard Overview" width="100%">
+<img src="Screenshots/01%20_Dashboard_Overview.png" alt="Dashboard Overview" width="100%">
 
 <img src="Screenshots/02_Time_Analysis.png" alt="Time Analysis" width="100%">
 
-<img src="Screenshots/03. Dasboard_Details.png" alt="Dashboard Details" width="100%">
+<img src="Screenshots/03.%20Dasboard_Details.png" alt="Dashboard Details" width="100%">
+
 
 
 ## 📂 Repository Structure
