@@ -27,15 +27,13 @@ This project presents an interactive Power BI dashboard created to analyze Uber 
 - Average Trip Distance
 - Average Booking Value
 
-
 ## 🖼️ Dashboard Screenshots
 
-<img src="Screenshots/01%20_Dashboard_Overview.png" alt="Dashboard Overview" width="100%">
+![Dashboard Overview](Screenshots/01_Dashboard_Overview.png)
 
-<img src="Screenshots/02_Time_Analysis.png" alt="Time Analysis" width="100%">
+![Time Analysis](Screenshots/02_Time_Analysis.png)
 
-<img src="Screenshots/03.%20Dasboard_Details.png" alt="Dashboard Details" width="100%">
-
+![Dashboard Details](Screenshots/03_Dashboard_Details.png)
 
 
 ## 📂 Repository Structure
