@@ -40,6 +40,3 @@ This project presents an interactive Power BI dashboard created to analyze Uber 
 - Screenshots – Dashboard previews
 - Power BI (.pbix) – Dashboard file
 
-## 🔗 Live Dashboard
-
-The interactive Power BI dashboard link will be added here.
