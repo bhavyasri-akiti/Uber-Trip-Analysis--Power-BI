@@ -28,13 +28,9 @@ This project presents an interactive Power BI dashboard created to analyze Uber 
 - Average Booking Value
 
 ## 🖼️ Dashboard Screenshots
-
-![Dashboard Overview](Screenshots/01%20_Dashboard_Overview.png)
-
-![Time Analysis](Screenshots/02_Time_Analysis.png)
-
-![Dashboard Details](Screenshots/03.%20Dasboard_Details.png)
-
+<img width="1427" height="797" alt="01_Dashboard_Overview" src="https://github.com/user-attachments/assets/5ca3bdd2-4af8-4643-8cb9-bc19fab75bd8" />
+<img width="1425" height="803" alt="02_Time _Analysis" src="https://github.com/user-attachments/assets/cb0fa05c-be00-48a9-9644-2762c479b0cd" />
+<img width="1424" height="797" alt="03_Dasboard_Details" src="https://github.com/user-attachments/assets/e9ae502c-0ccd-4ed4-b2f1-4670be0d00ef" />
 
 
 ## 📂 Repository Structure
